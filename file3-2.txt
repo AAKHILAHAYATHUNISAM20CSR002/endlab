@@ -1,0 +1,4 @@
+Output:
+
+Enter value of num1, num2 and num3: 15 200 101
+ Number2 is greatest
