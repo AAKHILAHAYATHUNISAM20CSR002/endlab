@@ -1,0 +1,4 @@
+Output:
+
+Enter any integer number: 4
+factorial of 4 is: 24
