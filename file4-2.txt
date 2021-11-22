@@ -1,0 +1,12 @@
+Output:
+
+Enter the number of terms: 8
+First 8 terms of Fibonacci series:
+0
+1
+1
+2
+3
+5
+8
+13
