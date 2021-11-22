@@ -1,0 +1,4 @@
+Output:
+
+Enter any number: 23456
+After reverse the no is :65432
